@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>lowizdev's tent of curiosities</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2022-11-30T22:39:00-03:00</updated><entry><title>Dicas de estudo C# e Dotnet</title><link href="/csharp-dotnet-inicio.html" rel="alternate"></link><published>2022-11-30T22:39:00-03:00</published><updated>2022-11-30T22:39:00-03:00</updated><author><name>lowizdev</name></author><id>tag:None,2022-11-30:/csharp-dotnet-inicio.html</id><summary type="html">&lt;p class="first last"&gt;Short version for index and feeds&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>lowizdev's tent of curiosities - tba</title><link href="/" rel="alternate"></link><link href="/feeds/tba.atom.xml" rel="self"></link><id>/</id><updated>2022-11-30T22:39:00-03:00</updated><entry><title>Dicas de estudo C# e Dotnet</title><link href="/csharp-dotnet-inicio.html" rel="alternate"></link><published>2022-11-30T22:39:00-03:00</published><updated>2022-11-30T22:39:00-03:00</updated><author><name>lowizdev</name></author><id>tag:None,2022-11-30:/csharp-dotnet-inicio.html</id><summary type="html">&lt;p class="first last"&gt;Short version for index and feeds&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;## Videos&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=4vQJMyk2DPU&amp;amp;list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC&amp;amp;index=2"&gt;https://www.youtube.com/watch?v=4vQJMyk2DPU&amp;amp;list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC&amp;amp;index=2&lt;/a&gt;
 &lt;a class="reference external" href="https://www.youtube.com/watch?v=0QUgvfuKvWU"&gt;https://www.youtube.com/watch?v=0QUgvfuKvWU&lt;/a&gt;&lt;/p&gt;
@@ -16,6 +16,4 @@
 &lt;p&gt;## Projetos&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://16bpp.net/tutorials/csharp-networking/01/"&gt;https://16bpp.net/tutorials/csharp-networking/01/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/"&gt;https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/&lt;/a&gt;&lt;/p&gt;
-</content><category term="tba"></category><category term="study"></category></entry><entry><title>Hello World</title><link href="/hello-world.html" rel="alternate"></link><published>2022-11-30T22:39:00-03:00</published><updated>2022-11-30T22:39:00-03:00</updated><author><name>lowizdev</name></author><id>tag:None,2022-11-30:/hello-world.html</id><summary type="html">&lt;p class="first last"&gt;Short version for index and feeds&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;hello world&lt;/p&gt;
-</content><category term="test"></category><category term="test"></category></entry></feed>
+</content><category term="tba"></category><category term="study"></category></entry></feed>
